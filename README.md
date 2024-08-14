@@ -40,6 +40,18 @@ cd patient-health-tracker
 - __Adding a Doctor/Patient:__
     - Navigate to the respective forms via the dashboard to add new records.
 
+### Screenshots
+<table>
+  <tr>
+    <td><img src="C:\Users\shaik\OneDrive\Desktop\Login.png" alt="Image 1" width="200"/></td>
+    <td><img src="C:\Users\shaik\OneDrive\Desktop\Dashboard.png" alt="Image 2" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="C:\Users\shaik\OneDrive\Desktop\AddPatientForm.png" alt="Image 3" width="200"/></td>
+    <td><img src="C:\Users\shaik\OneDrive\Desktop\AddDoctorForm.png" alt="Image 4" width="200"/></td>
+  </tr>
+</table>
+
 ### Conclusion
 
 The "Patient Health Tracker" is a demonstration of how web technologies can be harnessed to improve the efficiency and security of healthcare administration. With its user-friendly design and robust functionality, this project serves as a valuable tool for healthcare professionals.
