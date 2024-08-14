@@ -43,7 +43,9 @@ cd patient-health-tracker
 ### Screenshots
 <table>
   <tr>
-    <td><img src="C:\Users\shaik\OneDrive\Desktop\Login.png" alt="Image 1" width="200"/></td>
+    <td><img src="![Dashboard](https://github.com/user-attachments/assets/80f3c63a-c823-4026-a3d7-6d8934505749)
+![Login](https://github.com/user-attachments/assets/f6a5b800-0a9f-4ce8-918c-43f6935712b5)"
+ alt="Image 1" width="200"/></td>
     <td><img src="C:\Users\shaik\OneDrive\Desktop\Dashboard.png" alt="Image 2" width="200"/></td>
   </tr>
   <tr>
