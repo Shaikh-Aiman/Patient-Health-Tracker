@@ -42,17 +42,17 @@ cd patient-health-tracker
 
 ### Screenshots
 - __Login__
-     ![Login](https://github.com/user-attachments/assets/f6a5b800-0a9f-4ce8-918c-43f6935712b5)
+   -  ![Login](https://github.com/user-attachments/assets/f6a5b800-0a9f-4ce8-918c-43f6935712b5)
 - __Dashboard__
-     ![Dashboard](https://github.com/user-attachments/assets/80f3c63a-c823-4026-a3d7-6d8934505749)
+    -  ![Dashboard](https://github.com/user-attachments/assets/80f3c63a-c823-4026-a3d7-6d8934505749)
 - __Add Patient Form__
-     ![AddPatientForm](https://github.com/user-attachments/assets/fbb64089-7bfe-4090-bfa5-6a0b7f8de86c)
+   -   ![AddPatientForm](https://github.com/user-attachments/assets/fbb64089-7bfe-4090-bfa5-6a0b7f8de86c)
 - __Add Doctor Form__
      ![AddDoctorForm](https://github.com/user-attachments/assets/4f777e93-24c8-4475-a691-1dd17b40bab5)
-_ __Patient List Page__
-     ![PatientList](https://github.com/user-attachments/assets/13715240-da57-48ea-8753-d8ac801f7b65)
-- __Doctor List Page__
-     ![DoctorList](https://github.com/user-attachments/assets/51536959-282a-43ff-a651-6d44c5f3d23c)
+_ __Patient List__
+    -  ![PatientList](https://github.com/user-attachments/assets/13715240-da57-48ea-8753-d8ac801f7b65)
+- __Doctor List__
+    -  ![DoctorList](https://github.com/user-attachments/assets/51536959-282a-43ff-a651-6d44c5f3d23c)
 ### Conclusion
 
 The "Patient Health Tracker" is a demonstration of how web technologies can be harnessed to improve the efficiency and security of healthcare administration. With its user-friendly design and robust functionality, this project serves as a valuable tool for healthcare professionals.
