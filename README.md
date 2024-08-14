@@ -24,21 +24,21 @@ To run this project locally, follow these steps:
 - __Navigate to the project directory:__
 cd patient-health-tracker
 - __Setup Database:__
-- Import the provided SQL file into your MySQL database.
-- Update the database connection details in the config.php file.
+    - Import the provided SQL file into your MySQL database.
+    - Update the database connection details in the config.php file.
 - __Run the application:__
-- Start your local server (e.g., using XAMPP or WAMP).
-- Access the application via http://localhost/patient-health-tracker.
+    - Start your local server (e.g., using XAMPP or WAMP).
+    - Access the application via http://localhost/patient-health-tracker.
 
 ### Usage
 - __Login:__
-- Access the login page at http://localhost/patient-health-tracker/login.php.
-- Enter your credentials to proceed to the dashboard.
+    - Access the login page at http://localhost/patient-health-tracker/login.php.
+    - Enter your credentials to proceed to the dashboard.
 
 - __Dashboard:__
-- From the dashboard, you can add new doctors, add new patients, and view the lists of doctors and patients.
+    - From the dashboard, you can add new doctors, add new patients, and view the lists of doctors and patients.
 - __Adding a Doctor/Patient:__
-- Navigate to the respective forms via the dashboard to add new records.
+    - Navigate to the respective forms via the dashboard to add new records.
 
 ### Conclusion
 
