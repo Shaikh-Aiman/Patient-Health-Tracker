@@ -39,6 +39,14 @@ cd patient-health-tracker
     - From the dashboard, you can add new doctors, add new patients, and view the lists of doctors and patients.
 - __Adding a Doctor/Patient:__
     - Navigate to the respective forms via the dashboard to add new records.
+      
+### Screenshots
+ ![login dashboard](https://github.com/user-attachments/assets/4428f87f-9d8c-46fb-99e7-2460d76f769c)
+ 
+ ![AddForm](https://github.com/user-attachments/assets/4a3b6f14-72ae-42bc-9508-ee2db2840b4c)
+ 
+ ![List](https://github.com/user-attachments/assets/95091f92-7421-4fb1-8505-39be924bc0d6)
+
 
 ### Conclusion
 
