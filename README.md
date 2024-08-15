@@ -51,3 +51,6 @@ cd patient-health-tracker
 ### Conclusion
 
 The "Patient Health Tracker" is a demonstration of how web technologies can be harnessed to improve the efficiency and security of healthcare administration. With its user-friendly design and robust functionality, this project serves as a valuable tool for healthcare professionals.
+
+### License
+This project is licensed under the MIT License.
