@@ -20,9 +20,9 @@ The application is divided into several key modules:
 To run this project locally, follow these steps:
 
 - __Clone the repository:__
- git clone https://github.com/your-username/patient-health-tracker.git
+ git clone https://github.com/Shaikh-Aiman/Patient-Health-Tracker.git
 - __Navigate to the project directory:__
-cd patient-health-tracker
+cd Patient-Health-Tracker
 - __Setup Database:__
     - Import the provided SQL file into your MySQL database.
     - Update the database connection details in the config.php file.
